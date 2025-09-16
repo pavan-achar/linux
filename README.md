@@ -207,10 +207,11 @@ AFTER:
 - Analysis results: see analysis/
 
 Output:
-  before/ss_tuln.txt:
-      Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:Port Process
-tcp   LISTEN 0      128    0.0.0.0:22          0.0.0.0         
-tcp   LISTEN 0      128    127.0.0.1:631       0.0.0.0
+before/ss_tuln.txt:
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:Port Process
+tcp   LISTEN 0      128    0.0.0.0:22          0.0.0.0     
+tcp   LISTEN 0      128    127.0.0.1:631       0.0.0.0         
+
 
 before/sshd_config.txt:
 PermitRootLogin yes
