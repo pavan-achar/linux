@@ -7,15 +7,6 @@ fail2ban (ban brute-force attackers)
  SSH (harden access)
  tcpdump, tshark (traffic capture & analysis)
 
-Deliverables:
-
-Before/After state summary
-Applied commands list
- Screenshots & evidence
- PCAP and analysis files
-
-
-
  Setup
 
 Terminal A: Admin session (run main commands).
