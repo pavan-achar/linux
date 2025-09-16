@@ -246,4 +246,3 @@ sshd jail:
 
 
 
-Do you also want me to make a **bash script version** of this README (automating everything into a single script), so you just run it once and collect all deliverables automatically?
